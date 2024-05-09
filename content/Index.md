@@ -1,1 +1,1 @@
-Welcome to my obsidian notes
+Welcome to my obsidian notes!
