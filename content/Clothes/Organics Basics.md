@@ -1,0 +1,1 @@
+Parent company is nasty & fast fashion
