@@ -7,11 +7,11 @@
 
 ~~Unconscious bias - contradiction between values of fairness and the reality of real world discrimination pg5~~
 
-Bias acts on expectation not reality pg7
+~~Bias acts on expectation not reality pg7
 
-Intersectionality
+~~Intersectionality
 
-People in the majority see a different reality to the minority Pg11
+~~People in the majority see a different reality to the minority Pg11
 
 US only started to fight racism in ww2 as black ppl realised they were fighting to liberate Jews whilst still considered lesser people in their own country. Hence a lot of backlash against black working in factories etc pg21 this prompted the start of race opinion based ~~research~~~~
 
