@@ -1,0 +1,1 @@
+Lots of latex free. Not sure if their elastic is natural and compostable
