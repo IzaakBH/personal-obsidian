@@ -1,1 +1,0 @@
-McVities fought a hard battle (and baked a massive Jaffa Cake) to prove that Jaffa Cakes are cakes and not biscuits, thus qualifying them for a lower rate of VAT.

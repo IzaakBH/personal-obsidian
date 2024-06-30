@@ -1,3 +1,0 @@
-Priming is the act of planting a thought in a person's mind that could influence how they perceive the world.
-
-One example is providing a word, such as "careless", before showing them a video of a whitewater kayaker. In this case, people will perceive the person as reckless. Priming the same video with words like "independence" or "self-confidence" will lead people to perceive the person as adventurous. 

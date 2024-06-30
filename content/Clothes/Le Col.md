@@ -1,1 +1,0 @@
-Sign up to the web mailing to get discounts

@@ -1,5 +1,0 @@
-# Signs
-
-# Causes
-
-# Treatment

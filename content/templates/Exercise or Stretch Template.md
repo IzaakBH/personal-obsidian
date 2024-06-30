@@ -1,5 +1,0 @@
-# Description
-
-# Rationale
-
-# Sources

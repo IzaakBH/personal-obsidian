@@ -1,4 +1,0 @@
-- Rest
-- Ice
-- Compression
-- Elevation

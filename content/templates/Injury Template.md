@@ -1,4 +1,0 @@
-# Symptoms
-# Causes
-
-# Treatment

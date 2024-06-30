@@ -1,2 +1,0 @@
-- [ ] Enable auto dependabot
-- [ ] Enable auto syncing to git from phone (can we use the git extension on there?)

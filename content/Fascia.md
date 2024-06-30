@@ -1,1 +1,0 @@
-A fibrous band or sheet of connective tissue that encloses and separates muscles and organs in the body.
