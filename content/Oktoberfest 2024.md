@@ -7,6 +7,10 @@ Some things about what it is, how to do it etc here.
 ## Trains
 Seem to be around £250 returns
 ## Flights
+Direct London to Munich costs around £250 -> £400 return. This is too much for me.
+![[Pasted image 20240630222625.png]]
+
+London -> Frankfurt costs £50-100 & Return train Frankfurt to Munich costs around £70 making a total of £120-170 return. This is more acceptable for me.
 
 # Accommodation
 **TLDR**: I prefer hostel as its closer & cheaper (or similar price) and we still get a private ensuite.
