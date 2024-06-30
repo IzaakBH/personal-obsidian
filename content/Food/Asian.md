@@ -1,0 +1,7 @@
+1) [Black pepper soy udon noodles](https://pinchofyum.com/black-pepper-stir-fried-udon)
+2) [Kimchi sesame udon noodles with egg](https://www.bbcgoodfood.com/recipes/kimchi-sesame-udon-noodles)
+3) [Yaki udon noodles](https://www.bbc.co.uk/food/recipes/yaki_udon_00603)
+4) [Udon miso soup](https://www.mob.co.uk/recipes/speedy-udon-miso-noodle-soup)
+5) [Tahini noodles soup](https://www.mob.co.uk/recipes/5-ingredient-chilli-tahini-noodles)
+6) [Sprout and chilli noodles](https://www.mob.co.uk/recipes/sprout-and-chilli-peanut-noodles)
+7) 

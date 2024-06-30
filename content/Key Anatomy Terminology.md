@@ -1,0 +1,12 @@
+- Superficial muscles - Muscles close to the skin.
+- Deep muscles - closer to bone/internal organs.
+- Dorsiflexion - backwards bending of hand or foot
+- Flexion - bending
+- Voluntary Muscles - you control how they move and work Example [[Hamstrings]]
+- Lateral - Outside
+- Medial - Inside
+- [[Tendonitis]]
+- tendinopathy - Chronic [[Tendonitis]]
+- Anabolic - positive
+- Catabolic - negative
+- 

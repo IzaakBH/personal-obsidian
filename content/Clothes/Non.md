@@ -1,0 +1,2 @@
+# Note on denim styling
+A note on sizing: I decided to size down from 32 to 30w for a more classic fit on the waist but the design is approximately 1 size oversized in keeping with the 90s styling, also I assume because of the unisex nature (and due to washing, though this was in cold water) the legs shrunk to just above the shoe on my 30” length legs on the 30” waist pair so if you’re on the taller end they might not suit. (I’m 5’11 and thought they were perfect)
