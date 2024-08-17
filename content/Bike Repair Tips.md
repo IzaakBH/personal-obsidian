@@ -1,0 +1,4 @@
+- rust converter to remove the rust and make it go black
+- sand & metal polish on the cranks will work well
+- wire brush/wire toothbrush works well for removing rust
+- cut and polish to repair and protect frame

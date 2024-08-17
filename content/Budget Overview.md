@@ -21,6 +21,8 @@ Fixed outgoings
 | Credit Card Payments | 300    |
 | Stonks               | 100    |
 | Cash Savings         | 100    |
+| Bulldog              | 75     |
+| Bike insurance       | 30     |
 | **Total Fixed**      | 2261.5 |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 

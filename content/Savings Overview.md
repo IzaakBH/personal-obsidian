@@ -14,14 +14,7 @@ To beat regular savings, ISA must be at least 60% of the rate.
 | 8            | 4.8               |
 | 9            | 5.4               |
 # Stoozing
-**Note**: new ISA rules allow contributing to multiple accounts of the same type in one year. This changes the strategy a lot. 
-
-It is not likely I will re-stooze unless money/balance transfer fees are very low
-- Cannot fix in an ISA due to already contributing to a flex ISA, meaning fee must be very low to counteract tax.
-- Also, end of current stoozes are far from end of tax year 25 so cannot change ISA type.
-- Interest Rates are set to fall, so stoozing in flexy ISA is risky unless transfer fee is very low.
-
-A possible alternative is getting a very long transfer, putting in flexy ISA and then fixing a large sum in 25 tax year.
+**Note**: new ISA rules (Apr 24) allow contributing to multiple accounts of the same type in one year. This changes the strategy a lot. 
 ## MBNA
 Stoozed:
 Promo End Date: 08/10/24 (Oct)
@@ -31,6 +24,8 @@ Savings Type: ISA
 Interest Amount: £698.82
 Savings Fix End: ??/09/24 (Sept)
 Expected Profit:
+
+Plan: On maturity of savings, attempts a balance transfer and fix for a year. It is likely the 13 mth 0 fee card from NAT west is best option.
 ## Virgin
 Stoozed:
 Promo End Date: ??/02/25 (Feb)
@@ -59,5 +54,11 @@ Should invest maybe £100 per month. Need to factor this into a budget.
 ### Wealthify
 £250 invested on 10th April with a £50 reward 6 months later.
 
+### Hargreaves Lansdown
+£100 invested on 23rd July with a £50 reward 7 months later.
+
+## Historic Investments 
 ### &Me
 £100 reward on may 30th for investing £500 and holding it for a year. Note the £100 has been rewarded but must remain invested till the 30th.
+
+The £650 return went back into vanguard ISA but is part of aus savings.
